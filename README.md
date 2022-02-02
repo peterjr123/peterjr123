@@ -1,5 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+hello i'm peterjr123!
 
+## I'm good at...
+<img src="https://img.shields.io/badge/1st-C++-FF6363"/> <img src="https://img.shields.io/badge/2nd-JAVA-FFAB76"/>
+<img src="https://img.shields.io/badge/3rd-javascript-FFFDA2"/>
+
+## I'm learning...
+1. react native
+2. algorithms
+
+## progress...?
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peterjr123)](https://solved.ac/peterjr123)
 <!--
 **peterjr123/peterjr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
